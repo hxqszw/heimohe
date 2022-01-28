@@ -3,7 +3,7 @@
 
 ### 目前能正常访问地址
 * [http://heimohe.cc](http://heimohe.cc)
-* [http://cjkh.cc](https://cjkh.cc)
-## 网址随时可能会被和谐，务必收藏本页以获取最新网址，收藏访问不迷路！
+* [http://cjkh.cc](http://cjkh.cc)
+#### 网址随时可能会被和谐，务必收藏本页以获取最新网址，收藏访问不迷路！
 ### 目前不能访问地址
 * [http://heimohe.cn](http://heimohe.cn)
